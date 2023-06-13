@@ -1,0 +1,40 @@
+/* style.css */
+body {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* set logout and upload navbar links to display none */
+#logout, #upload{
+    display: none;
+}
+
+/* set cursor to pointer on showpassword hover */
+#showPassword:hover {
+    cursor: pointer;
+}
+
+/* set gallery image max height and width */
+.photo {
+    max-height: 300px;
+    max-width: 400px;
+}
+
+/* set anchor tag text decoration to none */
+a {
+    text-decoration: none;
+}
+
+/* set anchor tag text decoration to underline on hover */
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* set card max width */
+div.card {
+    max-width: 18rem;
+}
+
+.footer {
+    padding-top: 10em;
+}
