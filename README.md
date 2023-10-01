@@ -2,4 +2,4 @@
 
 ## Overview
 
-This application creates, displays, updates, and deletes image gallery data gathered from a MySQL database, while providing a registration and login system.
+This application uploads and displays images, while providing a registration and login system, gathered from a MySQL database.
